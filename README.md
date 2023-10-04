@@ -82,7 +82,7 @@ Utilizando a API do ChatGPT para realizar uma análise dos comentários do produ
 
 Em geral, a análise indica uma resposta positiva ao óleo de barba, com a maioria dos usuários satisfeitos com a maciez, brilho e hidratação proporcionados. No entanto, é importante notar que alguns consumidores expressaram insatisfação relacionada a aspectos como irritação na pele, falta de hidratação adequada e preço do produto. Além disso, foram identificadas sugestões de melhoria, especialmente em relação à fragrância, ao preço e à embalagem do óleo para barba.
 
-Essas análises ofereceram insights para orientar decisões estratégicas futuras, visando aprimorar tanto o produto quanto a experiência dos consumidores. A contínua atenção a esses aspectos pode contribuir para a fidelização dos clientes e o sucesso a longo praz.
+Essas análises ofereceram insights para orientar decisões estratégicas futuras, visando aprimorar tanto o produto quanto a experiência dos consumidores. A contínua atenção a esses aspectos pode contribuir para a fidelização dos clientes e o sucesso a longo prazo.
 
 ---
 ### Contato:

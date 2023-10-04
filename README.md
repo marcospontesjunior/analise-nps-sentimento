@@ -34,7 +34,7 @@ Inicialmente, utilizamos a biblioteca **Pandas** para importar e ler a base de d
 <img src="/img/dados.png">
 
 ###
-Em seguida, criamos um gráfico para compreender a distribuição da quantidade de votos nas categorias Detratores, Passivos e Promotores.
+Em seguida, criamos um gráfico para compreender a distribuição da quantidade de notas nas categorias Detratores, Passivos e Promotores.
 
 <img src="/img/grafico_notas.png">
 

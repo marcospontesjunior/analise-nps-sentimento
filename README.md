@@ -1,15 +1,15 @@
-# Análise de NPS e Sentimento utilizando API do ChatGPT
+# Análise de Produto: Integrando NPS e Análise de Sentimento
 
 ###
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT) 
 
 ### Sobre:
 
-Este projeto tem como objetivo realizar uma análise da base de dados para calcular o Net Promoter Score (NPS) e, utilizar a API do ChatGPT para realizar uma análise de sentimento.
+O objetivo deste projeto é realizar uma análise da base de dados para calcular o Net Promoter Score (NPS) e utilizar a API do ChatGPT para realizar uma análise de sentimento.
 
 ### Proposta:
 
-A proposta do projeto é e aplicar uma abordagem analítica que nos permita compreender a percepção e a experiência dos clientes de forma aprofundada. Utilizando uma API para análisar sentimento para extrair informações qualitativas dos feedbacks, identificando padrões e tendências que nos ajudarão a tomar decisões estratégicas com base nas opiniões dos clientes.
+A proposta do projeto é aplicar uma abordagem analítica que nos permita compreender a percepção e a experiência dos clientes de forma aprofundada. Utilizando uma API para análise de sentimento para extrair informações dos feedbacks, identificando padrões e tendências que nos ajudarão a tomar decisões estratégicas com base nas opiniões dos clientes.
 
 ### Estrutura do Repositório:
 - <strong>data:</strong> Encontrará o arquivo **.csv** com os dados utilizados para a análise.
@@ -27,19 +27,19 @@ A proposta do projeto é e aplicar uma abordagem analítica que nos permita comp
 
 ### Metodologia:
 
-Uma empresa especializada em cosméticos para cuidados masculinos solicitou a realização de uma análise de NPS (Net Promoter Score) e de sentimento em relação ao seu produto, um óleo para barba. O objetivo é compreender a satisfação e a percepção dos consumidores em relação a esse produto específico, identificando pontos fortes e oportunidades de melhoria. 
+Uma empresa especializada em cosméticos para cuidados masculinos solicitou a realização de uma análise de NPS (Net Promoter Score) e de sentimento em relação ao seu produto, um óleo para barba.
 
 Inicialmente, utilizamos a biblioteca **Pandas** para importar e ler a base de dados.
 
 <img src=" ">
 
 ###
-Criamos um gráfico para compreender a distribuição da quantidade de votos nas categorias Detratores, Passivos e Promotores.
+Em seguida, criamos um gráfico para compreender a distribuição da quantidade de votos nas categorias Detratores, Passivos e Promotores.
 
 <img src=" ">
 
 ###
-Utilizamos um laço **for** para calcular o NPS com base nas notas dadas pelos consumidores.
+Utilizamos um laço **for** para calcular o NPS com base nas notas dadas pelos consumidores, resultando em um valor aproximado de **29,29** no cálculo do NPS.
 
 ```
 nota = dados['nota']
@@ -59,11 +59,35 @@ print(nps)
 ```
 
 ###
-O valor obtido foi aproximadamente 29.29 no cálculo do NPS.
-
 O próximo passo foi criar um gráfico para contextualizar o valor obtido na escala do NPS.
 
 <img src=" ">
 
 ###
-Concluímos a análise, identificando que o valor do NPS se encontra na faixa indicada como 'Aperfeiçoamento' na escala do NPS. Esta informação proporciona insights para orientar estratégias de aprimoramento do produto e do relacionamento com os consumidores.
+Concluímos a análise, identificando que o valor se encontra na faixa indicada como 'Aperfeiçoamento' na escala do NPS.
+
+### Análise de Sentimento:
+
+Utilizando a API do ChatGPT para realizar uma análise dos comentários do produto, obtivemos os resultados a seguir:
+
+- A maioria dos comentários (66%) avalia o óleo de barba de forma positiva, com notas entre 7 e 10. Os aspectos mais elogiados são a maciez da barba, o brilho que proporciona e a hidratação duradoura.
+
+- Alguns comentários mencionam especificamente o aroma agradável do óleo de barba, o que é considerado um fator positivo.
+
+- Alguns usuários expressaram insatisfação com o produto (10% dos comentários), mencionando problemas como irritação na pele ou falta de atendimento às expectativas.
+
+- Há comentários em que os usuários consideram o óleo de barba bom, mas apontam alguns aspectos que poderiam ser aprimorados, como a fragrância, o preço ou a embalagem.
+
+### Conclusão:
+
+Em geral, a análise indica uma resposta positiva ao óleo de barba, com a maioria dos usuários satisfeitos com a maciez, brilho e hidratação proporcionados. No entanto, é importante notar que alguns consumidores expressaram insatisfação relacionada a aspectos como irritação na pele, falta de hidratação adequada e preço do produto. Além disso, foram identificadas sugestões de melhoria, especialmente em relação à fragrância, ao preço e à embalagem do óleo para barba.
+
+Essas análises ofereceram insights para orientar decisões estratégicas futuras, visando aprimorar tanto o produto quanto a experiência dos consumidores. A contínua atenção a esses aspectos pode contribuir para a fidelização dos clientes e o sucesso a longo praz.
+
+---
+### Contato:
+
+<div>
+  <a href="https://linkedin.com/in/marcospontesjunior" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black" target="_blank"></a>  
+  <a href = "mailto:marcospntsjunior@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" target="_blank"></a>
+</div>

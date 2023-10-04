@@ -64,7 +64,7 @@ O próximo passo foi criar um gráfico para contextualizar o valor obtido na esc
 <img src=" ">
 
 ###
-Concluímos a análise, identificando que o valor se encontra na faixa indicada como 'Aperfeiçoamento' na escala do NPS.
+Concluímos a análise, identificando que o valor se encontra na faixa indicada como **'Aperfeiçoamento'** na escala do NPS.
 
 ### Análise de Sentimento:
 

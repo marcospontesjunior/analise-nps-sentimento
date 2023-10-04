@@ -31,12 +31,12 @@ Uma empresa especializada em cosméticos para cuidados masculinos solicitou a re
 
 Inicialmente, utilizamos a biblioteca **Pandas** para importar e ler a base de dados.
 
-<img src="dados.png">
+<img src="/img/dados.png">
 
 ###
 Em seguida, criamos um gráfico para compreender a distribuição da quantidade de votos nas categorias Detratores, Passivos e Promotores.
 
-<img src="grafico_notas.png">
+<img src="/img/grafico_notas.png">
 
 ###
 Utilizamos um laço **for** para calcular o NPS com base nas notas dadas pelos consumidores, resultando em um valor aproximado de **29,29** no cálculo do NPS.
@@ -61,7 +61,7 @@ print(nps)
 ###
 O próximo passo foi criar um gráfico para contextualizar o valor obtido na escala do NPS.
 
-<img src="grafico_nps.png">
+<img src="/img/grafico_nps.png">
 
 ###
 Concluímos a análise, identificando que o valor se encontra na faixa indicada como **'Aperfeiçoamento'** na escala do NPS.

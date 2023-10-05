@@ -39,7 +39,7 @@ Em seguida, criamos um gráfico para compreender a distribuição da quantidade 
 <img src="/img/grafico_notas.png">
 
 ###
-Utilizamos um laço **for** para calcular o NPS com base nas notas dadas pelos consumidores, resultando em um valor aproximado de **29,29** no cálculo do NPS.
+Utilizamos um laço **for** para calcular o NPS com base nas notas dadas pelos consumidores, resultando em um valor aproximado de **29,29%** no cálculo do NPS.
 
 ```
 nota = dados['nota']

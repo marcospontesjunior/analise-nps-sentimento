@@ -54,8 +54,6 @@ for nota in notas:
     detratores += 1
 
 nps = (promotores - detratores) / len(notas) * 100
-
-print(nps)
 ```
 
 ###

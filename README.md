@@ -64,6 +64,8 @@ O próximo passo foi criar um gráfico para contextualizar o valor obtido na esc
 ###
 Concluímos a análise, identificando que o valor se encontra na faixa indicada como **'Aperfeiçoamento'** na escala do NPS.
 
+Para compreender melhor, vamos a análise de sentimento.
+
 ### Análise de Sentimento:
 
 Utilizando a API do ChatGPT para realizar uma análise dos comentários do produto, obtivemos os resultados a seguir:

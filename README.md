@@ -3,7 +3,7 @@
 ###
 [![License: MIT](https://img.shields.io/badge/License-MIT-black.svg)](https://opensource.org/licenses/MIT) 
 
-### Sobre:
+### Sobre: 
 
 O objetivo deste projeto é realizar uma análise da base de dados para calcular o Net Promoter Score (NPS) e utilizar a API do ChatGPT para realizar uma análise de sentimento.
 
